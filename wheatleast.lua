@@ -1,2 +1,1 @@
 LmaoTarr
-photomaps
